@@ -58,7 +58,7 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
+	font-size: 100%;
 	font-family: monaco, monospace;
 }
 
@@ -168,7 +168,7 @@ pre {
 }
 
 div#footer {
-	font-size: small;
+	font-size: large;
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
