@@ -389,7 +389,7 @@ table.imgtable, table.imgtable td {
 
 /* Make the white content column wider on desktops */
 #layout-content {
-  width: 1100px;            /* pick your preferred width: 900–1200px is typical */
+  width: 1200px;            /* pick your preferred width: 900–1200px is typical */
   padding: 20px 32px;       /* a bit more breathing room */
   box-sizing: border-box;
 }
