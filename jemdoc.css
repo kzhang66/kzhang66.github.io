@@ -7,6 +7,8 @@ table#tlayout {
     background: #b2h2h2;
     background:rgb(255, 255, 255);
     background:rgba(255, 255, 255, 0.95);
+	margin-left: auto;
+  	margin-right: auto;
 }
 
 body {
