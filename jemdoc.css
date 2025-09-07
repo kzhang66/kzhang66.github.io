@@ -40,12 +40,15 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 0.1em;
-	padding-right: 0.1em;
+	padding-left: 1.0em;
+	padding-right: 1.0em;
     border: none;
     background: white;
     text-align: left;
     vertical-align: top;
+	width: 1200px;            /* pick your preferred width: 900–1200px is typical */
+  	padding: 20px 32px;       /* a bit more breathing room */
+  	box-sizing: border-box;
 }
 
 #layout-menu a {
@@ -387,17 +390,6 @@ table.imgtable, table.imgtable td {
   margin-right: auto;
 }
 
-/* Make the white content column wider on desktops */
-#layout-content {
-  width: 1200px;            /* pick your preferred width: 900–1200px is typical */
-  padding: 20px 32px;       /* a bit more breathing room */
-  box-sizing: border-box;
-}
-
-/* Keep the left menu a sensible width */
-#layout-menu {
-  width: 220px;
-}
 
 /* Make it responsive on smaller screens */
 @media (max-width: 1280px) {
