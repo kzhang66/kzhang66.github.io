@@ -1,7 +1,7 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-    width:1440px;
+    width:1840px;
     border: none;
     border-collapse: separate;
     background: #b2h2h2;
@@ -378,7 +378,7 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
-#layout-content { width: min(92vw, 1200px); }
+#layout-content { width: auto; }   /* let it take the remaining space */
 
 /* Make it responsive on smaller screens */
 @media (max-width: 1280px) {
