@@ -46,9 +46,6 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
-/* 	width: 1000px;            /* pick your preferred width: 900–1200px is typical */ */
-/*   	padding: 20px 32px;       /* a bit more breathing room */ */
-  	box-sizing: border-box;
 }
 
 #layout-menu a {
