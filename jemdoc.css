@@ -1,14 +1,14 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-    width: 2200px;
+    width: 2000px;
     border: none;
     border-collapse: separate;
     background: #b2h2h2;
     background:rgb(255, 255, 255);
     background:rgba(255, 255, 255, 0.95);
 /* 	margin-left: auto; */
-/*   	margin-right: auto; */
+  	margin-right: auto;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
-	padding-right: 1.0em;
+	padding-right: 0.5em;
     border: none;
     background: white;
     text-align: left;
